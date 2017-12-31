@@ -1,7 +1,7 @@
 
 //var service = location.hash.replace("#","");
 
-//document.write(service);
+document.write(service);
 
 document.write(loadservice(service));
 
