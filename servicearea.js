@@ -3,7 +3,7 @@
 
 //document.write(service);
 
-document.writeln('<div align="cetner">');
+document.writeln('<div align="center">');
 document.writeln(loadservice(service));
 document.writeln('</div>');
 
