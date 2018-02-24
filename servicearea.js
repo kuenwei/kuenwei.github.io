@@ -28,7 +28,7 @@ function loadservice( chks ) {
     return '<div class=\"tumblr-post\" data-href=\"https://embed.tumblr.com/embed/post/BVez7Cl_SeW9VrD92h36Og/167138732113\" data-did=\"8b15c681a1ed4bbfe5d851793ad500b7db337e46\" data-language=\"zh_TW\"><a href=\"http://store.anashokunin.com/post/167138732113\">點此查詢 SRT 最新課程</a></div>  <script async src=\"https://assets.tumblr.com/post.js\"></script>';
   } 
   
-   if ( chks == "txtinfo" {
+   if ( chks == "txtinfo" ) {
     return '<a href="http://grz.fyi/UuwhSP" target="_blank">最新課程訊息</a>｜<a href="https://docs.google.com/forms/d/e/1FAIpQLSeKNMurc7u7NtPQTRmMjJQarSxW6VGTCaN7u2C6McqO2rgDxw/viewform" target="_blank">預約諮商服務</a>｜<a href="http://grz.fyi/zT5k7N" target="_blank">關於我的完整介紹</a>';
   }
 
