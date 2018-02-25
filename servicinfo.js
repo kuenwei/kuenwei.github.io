@@ -3,7 +3,7 @@
 
 //document.write(service);
 
-var chks == "txtinfo";
+var service == "txtinfo";
 
 document.writeln('<div align="center">');
 document.writeln(loadservice(service));
