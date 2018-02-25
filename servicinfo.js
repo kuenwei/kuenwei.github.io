@@ -4,10 +4,11 @@
 //document.write(service);
 
 document.writeln('<div align="center">');
-document.writeln(loadservice("textinfo"));
+document.writeln(loadservice(service));
 document.writeln('</div>');
 
 function loadservice( chks ) {
+  chks = "textinfo";
   if ( chks == "tarot" ) {
     return '<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/BVez7Cl_SeW9VrD92h36Og/138827117418" data-did="6d25b0a194833fe41169006793a6964d5eafdfc2" data-language="zh_TW"><a href="http://store.anashokunin.com/post/138827117418">點此觀看塔羅諮詢服務說明</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>';
   }
