@@ -27,5 +27,5 @@ var item = "<li>" + "<a href="+ entryUrl + '" target="_blank">' + entryTitle + "
  document.write('</ul>');
  }
 
-document.writeln('<script src="'+location.protocol+"//"+location.hostname+'/feeds/posts/summary/-/精油抓周?max-results=100&alt=json-in-script&callback=recentpostslist"></script>');
+//document.writeln('<script src="'+location.protocol+"//"+location.hostname+'/feeds/posts/summary/-/精油抓周?max-results=100&alt=json-in-script&callback=recentpostslist"></script>');
 //document.writeln('<span style="font-size: 80%; float:right;">Get this <a href="http://www.bloggersentral.com/2010/04/list-recent-posts-by-label.html">widget</a></span>');
