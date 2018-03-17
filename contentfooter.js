@@ -3,7 +3,7 @@ document.write("如果您喜歡這篇文章，除了按讚、拍手，也歡迎�
 document.write("分享、引用請依授權規定，並附上原文連結：");
 //document.write("<a href=\""+location.href+"?utm_source=blogshare\" target=\"_blank\">");
 //document.write("<a href=\""+location.protocol+"/"+location.hostname+location.pathname+"?utm_source=blogshare\" target=\"_blank\">");
-document.write("<a href=\"http://"+location.hostname+location.pathname+"?utm_source=blogshare\" target=\"_blank\">");
+document.write("<a href=\""+location.protocol+"//"+location.hostname+location.pathname+"?utm_source=blogshare\" target=\"_blank\">");
 document.write(document.title);
 document.write("</a>。");
 document.writeln("</div>");
