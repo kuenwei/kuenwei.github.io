@@ -2,4 +2,4 @@ document.writeln('<!--<form style="border:1px solid #ccc;padding:4px;text-align:
 document.writeln('<h4>&#36664;&#20837; Email &#35330;&#38321;&#26368;&#26032;&#25991;&#31456;&#33287;&#35506;&#31243;&#36890;&#30693;</h4><input type="text" style="width:65%; height: 40px; border: 0px; border-bottom: 1px solid; margin-bottom: 12px;" name="email"/>&nbsp;<input type="hidden" value="willliu" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="訂閱" style="width:30%; height: 40px; border: 0px; background-color: #1688b8; color: #fff;" />');
 document.writeln('</form>-->');
 
-document.writeln('<iframe style="height:150px;width:100%;max-width:800px;margin:30px auto; border: 1px solid #DDD;" src="https://upscri.be/af9988?as_embed"></iframe>');
+document.writeln('<iframe src="https://upscri.be/af9988?as_embed" style="height:400px;width:100%;max-width:800px;margin:30px auto;"></iframe>');
