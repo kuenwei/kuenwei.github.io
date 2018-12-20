@@ -10,4 +10,7 @@ document.writeln ('<br /><br />');
 document.writeln ('<a href="mailto:service@herearoma.com" style="margin: 0.2em; background-color:#dd4b39; color: #fff; border-radius:1em; padding: 0.3em; padding-left: 0.8em; padding-right: 0.8em; font-size: 0.9em;">Email</a>');
 document.writeln ('<a href="https://he2.tw/fbpage" style="margin: 0.2em; background-color:#3b5998; color: #fff; border-radius:1em; padding: 0.3em; padding-left: 0.8em; padding-right: 0.8em; font-size: 0.9em;">FB 粉絲專頁</a>');
 document.writeln ('<a href="https://he2.tw/lineat" style="margin: 0.2em; background-color:#00c300;; color: #fff; border-radius:1em; padding: 0.3em; padding-left: 0.8em; padding-right: 0.8em; font-size: 0.9em;">加入 LINE 好友</a>');
+document.writeln ('<a href="https://he2.tw/instagram" style="margin: 0.2em; background-color:#00c300;; color: #fff; border-radius:1em; padding: 0.3em; padding-left: 0.8em; padding-right: 0.8em; font-size: 0.9em;">追蹤 IG</a>');
 document.writeln("</div>");
+
+e1306c
