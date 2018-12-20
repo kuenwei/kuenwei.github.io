@@ -6,4 +6,8 @@ document.write("分享、引用請依授權規定，並附上原文連結：");
 document.write("<a href=\""+location.protocol+"//"+location.hostname+location.pathname+"?utm_source=blogshare\" target=\"_blank\">");
 document.write(document.title);
 document.write("</a>。");
+document.writeln ('<br />聯絡我們');
+document.writeln ('<a href="mailto:service@herearoma.com" style="margin: 1em; background-color:#dd4b39; color: #fff; border-radius:1em; padding: 0.3em; padding-left: 0.8em; padding-right: 0.8em; font-size: 0.9em;">Email</a>');
+document.writeln ('<a href="https://he2.tw/fbpage" style="margin: 1em; background-color:#3b5998; color: #fff; border-radius:1em; padding: 0.3em; padding-left: 0.8em; padding-right: 0.8em; font-size: 0.9em;">FB 粉絲專頁</a>');
+document.writeln ('<a href="https://he2.tw/lineat" style="margin: 1em; background-color:#00c300;; color: #fff; border-radius:1em; padding: 0.3em; padding-left: 0.8em; padding-right: 0.8em; font-size: 0.9em;">加入 LINE 好友</a>');
 document.writeln("</div>");
