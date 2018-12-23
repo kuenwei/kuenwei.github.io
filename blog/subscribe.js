@@ -1,3 +1,3 @@
 //document.writeln('<blockquote class="embedly-card"><h4><a href="https://upscri.be/af9988/">訂閱最新文章、活動消息</a></h4><p>感謝閱讀完我們的文章，如果您想要第一時間收到文章與活動通知，請於下方的欄位填寫您的 Email，之後將會收到我們的電子報喔！</p></blockquote>');
 //document.writeln('<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>');
-document.writeln('<iframe src="https://upscri.be/af9988?as_embed" width="100%" height="600" frameborder="0"></iframe>')
+document.writeln('<iframe src="https://upscri.be/af9988?as_embed" width="100%" height="400" frameborder="0"></iframe>')
