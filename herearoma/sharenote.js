@@ -11,7 +11,7 @@ document.writeln ('<a href="https://he2.tw/service" style="margin: 0.2em; backgr
 document.writeln ('<a href="https://he2.tw/bazaar" style="margin: 0.2em; background-color:#ff9900; color: #fff; border-radius:1em; padding: 0.3em; padding-left: 0.8em; padding-right: 0.8em; font-size: 0.9em;">產品市集</a>');
 document.writeln ('<a href="mailto:service@herearoma.com" style="margin: 0.2em; background-color:#dd4b39; color: #fff; border-radius:1em; padding: 0.3em; padding-left: 0.8em; padding-right: 0.8em; font-size: 0.9em;">Email</a>');
 document.writeln ('<a href="https://he2.tw/fbpage" style="margin: 0.2em; background-color:#3b5998; color: #fff; border-radius:1em; padding: 0.3em; padding-left: 0.8em; padding-right: 0.8em; font-size: 0.9em;">FB 粉絲專頁</a>');
-document.writeln ('<a href="https://he2.tw/lineat" style="margin: 0.2em; background-color:#00c300; color: #fff; border-radius:1em; padding: 0.3em; padding-left: 0.8em; padding-right: 0.8em; font-size: 0.9em;">加入 LINE 好友</a>');
+//document.writeln ('<a href="https://he2.tw/lineat" style="margin: 0.2em; background-color:#00c300; color: #fff; border-radius:1em; padding: 0.3em; padding-left: 0.8em; padding-right: 0.8em; font-size: 0.9em;">加入 LINE 好友</a>');
 document.writeln ('<a href="https://he2.tw/instagram" style="margin: 0.2em; background-color:#e1306c; color: #fff; border-radius:1em; padding: 0.3em; padding-left: 0.8em; padding-right: 0.8em; font-size: 0.9em;">追蹤 IG</a>');
 document.writeln ('<a href="https://he2.tw/subscribe" style="margin: 0.2em; background-color:#ff4500; color: #fff; border-radius:1em; padding: 0.3em; padding-left: 0.8em; padding-right: 0.8em; font-size: 0.9em;">訂閱文章</a>');
 document.writeln("</div>");
