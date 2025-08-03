@@ -1,0 +1,40 @@
+/**
+ * Minified by jsDelivr using clean-css v5.3.2.
+ * Original file: https://seed.line.me/index_tw.html
+ *
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+
+@font-face {
+    font-family: "LINE Seed TW";
+    font-weight: 400;
+    font-display: swap;
+    src: url("https://cdn.jsdelivr.net/gh/kuenwei/kuenwei.github.io@master/webfonts/LINESeedTW_OTF_Rg.woff2")
+        format("woff2");
+}
+
+@font-face {
+    font-family: "LINE Seed TW";
+    font-weight: 300;
+    font-display: swap;
+    src: url("
+https://cdn.jsdelivr.net/gh/kuenwei/kuenwei.github.io@master/webfonts/LINESeedTW_OTF_Th.woff2")
+        format("woff2");
+}
+
+@font-face {
+    font-family: "LINE Seed TW";
+    font-weight: 600;
+    font-display: swap;
+    src: url("https://cdn.jsdelivr.net/gh/kuenwei/kuenwei.github.io@master/webfonts/LINESeedTW_OTF_Bd.woff2")
+        format("woff2");
+}
+
+@font-face {
+    font-family: "LINE Seed TW";
+    font-weight: 800;
+    font-display: swap;
+    src: url("
+https://cdn.jsdelivr.net/gh/kuenwei/kuenwei.github.io@master/webfonts/LINESeedTW_OTF_Eb.woff2")
+        format("woff2");
+}
